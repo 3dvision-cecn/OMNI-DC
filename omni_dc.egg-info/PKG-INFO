@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: omni_dc
+Version: 1.0
+Summary: ['omni_dc']
+Home-page: none
+Author: someone
+License-File: LICENSE
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: summary

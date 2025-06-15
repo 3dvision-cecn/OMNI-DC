@@ -1,0 +1,11 @@
+--2025-06-13 19:28:34--  https://drive.usercontent.google.com/download?id=1ssJYFB3rQD5JEYgG7W6tRJg1hpQKvqPD
+Resolving drive.usercontent.google.com (drive.usercontent.google.com)... 2a00:1450:400a:803::2001, 172.217.168.65
+Connecting to drive.usercontent.google.com (drive.usercontent.google.com)|2a00:1450:400a:803::2001|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2386 (2.3K) [text/html]
+Saving to: ‘dataset.zip’
+
+dataset.zip                  0%[                                      ]       0  --.-KB/s               dataset.zip                100%[=====================================>]   2.33K  --.-KB/s    in 0s      
+
+2025-06-13 19:28:34 (108 MB/s) - ‘dataset.zip’ saved [2386/2386]
+
